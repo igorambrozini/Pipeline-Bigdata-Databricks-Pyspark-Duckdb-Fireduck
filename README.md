@@ -1,8 +1,8 @@
-# 🧊 ETL - Pipeline with Databricks, PySpark, DuckDB & Fireduck
+## ETL - Pipeline with Databricks, PySpark, DuckDB & Fireduck
 
 > Efficiently processing 1 billion rows using modern data engineering tools.
 
-## 📌 Introduction
+### 📌 Introduction
 
 The goal of this project is to demonstrate how to efficiently process a massive dataset containing **1 billion rows** to compute statistics, including **aggregation and sorting**, which are computationally heavy operations. The implementation is done in **Python**.
 
@@ -48,27 +48,21 @@ The task is to develop a Python program capable of reading this file and calcula
 
 ---
 
-## 🧠 Project Scope
+### Project Scope
 
-- **Technologies explored:** Databricks, PySpark, DuckDB, Fireduck, Polars
+- **Technologies explored:** Databricks, PySpark, DuckDB, Fireduck, Python
 - **Focus:** Efficient processing and benchmarking of massive datasets
 - **Inspiration:** One Billion Row Challenge (1BRC)
 
 ### 🎯 Objectives
 
 - Benchmark different tools and techniques for processing large-scale data
-- Explore modern libraries like **DuckDB**, **Fireduck**, **Polars**, and **Databricks Notebooks**
+- Explore modern libraries like **DuckDB**, **Fireduck**, and **Databricks Notebooks** compared to **Python and Pandas**
 - Share learnings and performance insights with the data engineering community
 
 ---
 
-## 🤝 Contributing
-
-Feel free to open issues or pull requests to suggest improvements or explore new tools. Contributions are welcome!
-
----
-
-## 📄 License
+### License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
