@@ -1,4 +1,4 @@
-## ETL - Pipeline with Databricks, PySpark, DuckDB & Fireduck
+## ETL - Pipeline with Databricks, PySpark, DuckDB, Fireduck
 
 > Efficiently processing 1 billion rows using modern data engineering tools.
 
