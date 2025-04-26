@@ -14,7 +14,7 @@ The dataset consists of temperature measurements from various weather stations. 
 
 Temperatures are provided with **one decimal place** of precision.
 
-### 🔍 Example (10 lines from the dataset):
+### Example (10 lines from the dataset):
 
 ```
 Hamburg;12.0
